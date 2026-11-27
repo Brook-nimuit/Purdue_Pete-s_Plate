@@ -5,3 +5,8 @@ Goal: Live tower dining menu on my phone (in purdue colors) with a "recommended"
 
 Device: anything with a working browser
 
+<<<<<<<<< Temporary merge branch 1
+IMPORTANT: CS193 requirements (uploads excetera) are all in the MVP branch (don't want to have them in main yet)
+=========
+IMPORTANT: CS193 requirements (uploads excetera) are all in the MVP branch (inside docs/)
+>>>>>>>>> Temporary merge branch 2
