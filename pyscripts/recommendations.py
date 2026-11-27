@@ -59,6 +59,7 @@ def get_recommendation():
         
     print(f"\nTotal Plate: {int(current_cals)} cals | {int(current_protein)}g protein")
     print("-------------------------------------------\n")
+    return plate
 
 if __name__ == "__main__":
     get_recommendation()
